@@ -76,7 +76,7 @@ function Stepone(){
                         />
                 </div>
             </div>
-            <div className="mt-auto bg-white p-[1em] text-right">
+            <div className="w-full mx-auto mt-auto bg-white p-[1em] text-right md:max-w-[600px]">
                 <button 
                     className="bg-marineBlue text-white py-[.5em] px-[1em] rounded z-0 hover:opacity-[70%] hover:bg-purplishBlue" 
                     type="submit"
