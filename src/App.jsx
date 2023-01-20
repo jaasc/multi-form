@@ -3,7 +3,7 @@ import { MultiForm } from "./components/Context"
 import Sidebar from "./components/Sidebar"
 import Stepfive from "./components/steps/Stepfive"
 import Stepfour from "./components/steps/Stepfour"
-import Stepone from "./components/steps/StepOne"
+import Stepone from "./components/steps/Stepone"
 import Stepthree from "./components/steps/Stepthree"
 import Steptwo from "./components/steps/Steptwo"
 
