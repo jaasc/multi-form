@@ -34,7 +34,7 @@ export const ContextProvider = ({ children }) => {
         {
             name: 'Advanced',
             yearly: {
-                price: '120/yr',
+                price: '$120/yr',
                 duration: '2 months free'
             },
             monthly: {
