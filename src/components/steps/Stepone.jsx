@@ -14,7 +14,6 @@ function Stepone(){
     } = MultiForm()
 
     const handleSubmit = (e) => {
-        console.log('clicked')
         e.preventDefault()
         setActiveForm(1)
         setUser({

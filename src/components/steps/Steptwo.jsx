@@ -6,8 +6,7 @@ function Steptwo(){
     const {  
         plans, 
         userSubscription,
-        setUserSubscription,
-        user
+        setUserSubscription
     } = MultiForm();
 
     return(
